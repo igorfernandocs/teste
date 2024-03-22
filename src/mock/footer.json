@@ -1,0 +1,148 @@
+{
+  "support": {
+    "title": "Central de Ajuda:",
+    "description": "Dúvidas, reclamações e sugestões",
+    "phone": "(17) 3033.5805"
+  },
+  "apps": {
+    "title": "Baixe nosso app!",
+    "description": "E tenha a gestão da sua saúde bucal na sua mão de forma simples e rápida.",
+    "downloadButtons": [
+      {
+        "link": "https://apps.apple.com/br/app/odontocompany-franchising/id1627578357",
+        "image": "https://odontocompany.com/media/assets/images/btn-apple-store.png"
+      },
+      {
+        "link": "https://play.google.com/store/apps/details?id=com.odonto.company",
+        "image": "https://odontocompany.com/media/assets/images/btn-google-play.png"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "A ODONTOCOMPANY",
+      "links": [
+        {
+          "title": "Quem Somos",
+          "url": "/empresa",
+          "subtitle": null
+        },
+        {
+          "title": "Governança Corporativa",
+          "url": "https://www.contatoseguro.com.br/odontocompany",
+          "subtitle": null
+        },
+        {
+          "title": "Nossas Clínicas",
+          "url": "/clinicas",
+          "subtitle": null
+        },
+        {
+          "title": "Nossos Tratamentos",
+          "url": "/tratamentos",
+          "subtitle": null
+        },
+        {
+          "title": "Blog e Notícias",
+          "url": "https://blog.odontocompany.com/",
+          "subtitle": null
+        },
+        {
+          "title": "Central de Ajuda",
+          "url": "/contato",
+          "subtitle": null
+        },
+        {
+          "title": "Trabalhe Conosco",
+          "url": "/trabalhe-conosco",
+          "subtitle": null
+        }
+      ]
+    },
+    {
+      "title": "PRIVACIDADE",
+      "links": [
+        {
+          "title": "Canal de Privacidade",
+          "url": "https://odontocompany.com/canal-de-privacidade",
+          "subtitle": null
+        },
+        {
+          "title": "Política de cookies",
+          "url": "https://odontocompany.com/canal-de-privacidade/gestao-de-cookies",
+          "subtitle": null
+        },
+        {
+          "title": "Políticas de privacidade",
+          "url": "https://odontocompany.com/canal-de-privacidade/aviso-de-privacidade",
+          "subtitle": null
+        }
+      ]
+    },
+    {
+      "title": "DADOS LEGAIS",
+      "links": [
+        {
+          "title": "Odontocompany Franchising:",
+          "url": null,
+          "subtitle": "CRO-12195"
+        },
+        {
+          "title": "Responsável Técnico:",
+          "url": null,
+          "subtitle": "Paulo Youssef Zahr"
+        },
+        {
+          "title": "CD Responsável:",
+          "url": null,
+          "subtitle": "CRO-44508"
+        }
+      ]
+    }
+  ],
+  "badges": {
+    "title": "COMPROMISSOS PÚBLICOS - ESG",
+    "items": [
+      {
+        "name": "Selo Pacto Global",
+        "image": "https://odontocompany.com/media/logos/logo-pacto-global-brasil.png",
+        "width": 307,
+        "height": 98,
+        "link": "https://www.youtube.com/watch?v=2fgS9N4Daog&amp;t=16s"
+      },
+      {
+        "name": "Hospital Pequeno Príncipe",
+        "image": "https://odontocompany.com/media/logos/logo-pequeno-principe.png",
+        "width": 140,
+        "height": 140,
+        "link": null
+      }
+    ]
+  },
+  "social": {
+    "title": "Siga a Odontocompany nas Redes Sociais",
+    "items": [
+      {
+        "name": "Facebook",
+        "link:": "https://www.facebook.com/odontocompany/",
+        "image": "https://odontocompany.com/media/assets/images/imagem.svg"
+      },
+      {
+        "name": "Instagram",
+        "link:": "https://www.instagram.com/odontocompany/",
+        "image": "https://odontocompany.com/media/assets/images/imagem.svg"
+      },
+      {
+        "name": "YouTube",
+        "link:": "https://www.youtube.com/channel/UCnNrmgnEW-6zs20tivtrYKA",
+        "image": "https://odontocompany.com/media/assets/images/imagem.svg"
+      },
+      {
+        "name": "Linkedin",
+        "link:": "https://www.linkedin.com/company/3792185/",
+        "image": "https://odontocompany.com/media/assets/images/imagem.svg"
+      }
+    ]
+  },
+  "address": "ODONTOCOMPANY FRANCHISING S.A. – CNPJ: 12.817.681/0001-64 – Endereço: Av. Ibirapuera, 2332 – Torre I – Andar 1 e 7 – CJ. 11, 12 e 71 – Indianópolis – São Paulo – SP – CEP: 04028-900"
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "slug": "fada-do-dente",
+    "banner": "/images/fada-do-dente.jpg",
+    "logo": "/images/logo-fada-do-dente.png",
+    "title": "Fada do Dente",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+    "seasons": [
+      {
+        "id": 11,
+        "title": "Episódio 1: Lorem ipsun dolor siat meet",
+        "banner": "/images/fada-do-dente.jpg",
+        "video": "https://youtube.com/watch?v=B1XVAz7qJ7g",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+        "duration": "45 min"
+      },
+      {
+        "id": 12,
+        "title": "Episódio 2: Lorem ipsun dolor siat meet",
+        "banner": "/images/fada-do-dente.jpg",
+        "video": "https://www.youtube.com/watch?v=R_TFgXJ3q3w",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+        "duration": "45 min"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "oral-cast",
+    "banner": "/images/oral-cast.jpg",
+    "logo": "/images/logo-oral-cast.png",
+    "title": "Oral Cast chega a 1000 clínicas no Brasil",
+    "description": "Oral Cast ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+    "seasons": [
+      {
+        "id": 22,
+        "title": "Episódio 1: Lorem ipsun dolor siat meet",
+        "banner": "/images/oral-cast.jpg",
+        "video": "https://www.youtube.com/watch?v=9lx_nYzdd1k",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+        "duration": "45 min"
+      },
+      {
+        "id": 23,
+        "title": "Episódio 2: Lorem ipsun dolor siat meet",
+        "banner": "/images/oral-cast.jpg",
+        "video": "https://www.youtube.com/watch?v=RD0KC7eJavY",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+        "duration": "45 min"
+      }
+    ]
+  }
+]

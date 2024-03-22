@@ -1,0 +1,71 @@
+{
+  "title": "Nosso Blog",
+  "description": "Tira suas dúvidas e fique por dentro de dicas e tratamentos para cuidar da sua saúde e autoestima.",
+  "link": "https://blog.odontocompany.com/",
+  "posts": [
+    {
+      "categories": "Cirurgia, Endodontia",
+      "title": "A OdontoCompany deseja a todos um feliz Dia dos Pais!",
+      "description": "Ser pai é uma jornada cheia de desafios e responsabilidades. É ser presente, educar, apoiar os sonhos dos filhos, ajudá-los a lidar com as dificuldades.",
+      "date": "Jul 30, 2023",
+      "link": "https://odontocompany.com/noticia/dia-dos-pais-2021",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Outras Especialidades",
+      "title": "OdontoCompany chega a 1000 clínicas no Brasil!",
+      "description": "A OdontoCompany tem orgulho em anunciar mais uma grande conquista: chegamos à milésima clínica odontológica no Brasil!",
+      "date": "Fev 11, 2022",
+      "link": "https://odontocompany.com/noticia/odonto-company-chega-a-1000-clinicas-no-brasil",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Cirurgia, Endodontia",
+      "title": "A OdontoCompany deseja a todos um feliz Dia dos Pais!",
+      "description": "Ser pai é uma jornada cheia de desafios e responsabilidades. É ser presente, educar, apoiar os sonhos dos filhos, ajudá-los a lidar com as dificuldades.",
+      "date": "Jul 30, 2023",
+      "link": "https://odontocompany.com/noticia/dia-dos-pais-2021",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Outras Especialidades",
+      "title": "OdontoCompany chega a 1000 clínicas no Brasil!",
+      "description": "A OdontoCompany tem orgulho em anunciar mais uma grande conquista: chegamos à milésima clínica odontológica no Brasil!",
+      "date": "Fev 11, 2022",
+      "link": "https://odontocompany.com/noticia/odonto-company-chega-a-1000-clinicas-no-brasil",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Cirurgia, Endodontia",
+      "title": "A OdontoCompany deseja a todos um feliz Dia dos Pais!",
+      "description": "Ser pai é uma jornada cheia de desafios e responsabilidades. É ser presente, educar, apoiar os sonhos dos filhos, ajudá-los a lidar com as dificuldades.",
+      "date": "Jul 30, 2023",
+      "link": "https://odontocompany.com/noticia/dia-dos-pais-2021",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Outras Especialidades",
+      "title": "OdontoCompany chega a 1000 clínicas no Brasil!",
+      "description": "A OdontoCompany tem orgulho em anunciar mais uma grande conquista: chegamos à milésima clínica odontológica no Brasil!",
+      "date": "Fev 11, 2022",
+      "link": "https://odontocompany.com/noticia/odonto-company-chega-a-1000-clinicas-no-brasil",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Cirurgia, Endodontia",
+      "title": "A OdontoCompany deseja a todos um feliz Dia dos Pais!",
+      "description": "Ser pai é uma jornada cheia de desafios e responsabilidades. É ser presente, educar, apoiar os sonhos dos filhos, ajudá-los a lidar com as dificuldades.",
+      "date": "Jul 30, 2023",
+      "link": "https://odontocompany.com/noticia/dia-dos-pais-2021",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    },
+    {
+      "categories": "Outras Especialidades",
+      "title": "OdontoCompany chega a 1000 clínicas no Brasil!",
+      "description": "A OdontoCompany tem orgulho em anunciar mais uma grande conquista: chegamos à milésima clínica odontológica no Brasil!",
+      "date": "Fev 11, 2022",
+      "link": "https://odontocompany.com/noticia/odonto-company-chega-a-1000-clinicas-no-brasil",
+      "thumbnail": "https://odontoplay.s3.us-east-2.amazonaws.com/episodes/February2024/tcxhT4ePF2FqQ2xDM8mK.jpeg"
+    }
+  ]
+}
