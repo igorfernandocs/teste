@@ -1,5 +1,6 @@
 #!/bin/bash
 cd /var/www/html/
+COMPOSER_ALLOW_SUPERUSER=1
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
 /usr/bin/composer.phar self-update
 /usr/bin/composer.phar install --no-interaction > /var/log/composer.log 2>&1
