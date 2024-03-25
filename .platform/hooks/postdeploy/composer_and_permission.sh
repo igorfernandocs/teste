@@ -11,3 +11,5 @@ php artisan config:cache
 php artisan cache:clear
 php artisan route:cache
 php artisan view:clear
+yarn install /var/log/yarn.log 2>&1
+yarn build /var/log/yarn.log 2>&1
