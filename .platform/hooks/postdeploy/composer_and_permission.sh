@@ -37,3 +37,6 @@ php artisan view:clear
 # Instalação do Yarn e construção do projeto
 yarn install >> /var/log/yarn.log 2>&1
 yarn build >> /var/log/yarn.log 2>&1
+
+# Ajusta permissoes
+sudo chown -R webapp:webapp /var/www/html
