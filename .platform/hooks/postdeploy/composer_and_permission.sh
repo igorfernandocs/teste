@@ -7,7 +7,7 @@ cd /var/www/html/
 # Define a data atual
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
 
-# Cria o arquivo .env
+# Criando o arquivo .env
 cat << EOF > .env
 APP_NAME=Odontoplay
 APP_ENV=develop
