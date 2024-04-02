@@ -19,8 +19,7 @@
         "opcodesio/log-viewer": "^2.4",
         "orangehill/iseed": "^3.0",
         "tcg/voyager": "^1.5",
-        "yoelpc4/laravel-cloudinary": "^3.0",
-        "laravel/laravel": "^8.0"
+        "yoelpc4/laravel-cloudinary": "^3.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",

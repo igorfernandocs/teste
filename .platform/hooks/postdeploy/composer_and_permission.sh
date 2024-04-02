@@ -3,9 +3,6 @@
 set -e
 
 cd /var/www/html/
-rm -rf vendor
-rm composer.lock
-npm install -g npm
 
 # Define a data atual
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
