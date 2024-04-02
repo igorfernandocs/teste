@@ -7,6 +7,10 @@ cd /var/www/html/
 # Define a data atual
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
 
+# Instalação do Yarn
+curl -sL https://dl.yarnpkg.com/rpm/yarn.repo -o /etc/yum.repos.d/yarn.repo
+yum install -y yarn
+
 # Instalação do create-vite e vite
 npm install -g create-vite
 npm install vite
@@ -29,6 +33,10 @@ php artisan config:cache
 php artisan cache:clear
 php artisan route:cache
 php artisan view:clear
+
+# Instalação do Yarn e construção do projeto
+yarn install >> /var/log/yarn.log 2>&1
+yarn build >> /var/log/yarn.log 2>&1
 
 # Ajusta permissoes
 sudo chown -R webapp:webapp /var/www/html/ >> /var/log/chown.log 2>&1
