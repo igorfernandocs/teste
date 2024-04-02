@@ -7,6 +7,10 @@ npm install -g npm
 
 cd /var/www/html/
 
+rm package-lock.json
+rm -rf node_modules
+npm install
+
 # Define a data atual
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
 
