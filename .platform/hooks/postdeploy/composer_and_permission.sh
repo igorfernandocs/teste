@@ -4,8 +4,6 @@ set -e
 
 cd /var/www/html/
 
-rm package-lock.json
-rm -rf node_modules
 npm install -g npm
 
 # Define a data atual
