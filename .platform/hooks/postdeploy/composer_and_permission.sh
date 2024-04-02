@@ -4,7 +4,8 @@ set -e
 
 cd /var/www/html/
 
-npm install -g npm
+npm install -g npm@latest
+npm update
 
 # Define a data atual
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
