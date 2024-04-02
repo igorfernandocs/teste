@@ -18,7 +18,7 @@ npm install vite
 # Atualiza o Composer e instala dependências
 export COMPOSER_ALLOW_SUPERUSER=1
 export COMPOSER_ROOT_VERSION=1.0.0
-/usr/bin/composer.phar self-update --stable
+#/usr/bin/composer.phar self-update --stable
 /usr/bin/composer.phar install --no-interaction --no-plugins > /var/log/composer.log 2>&1
 echo "Composer install executado em: $CURRENT_DATE" >> /var/log/composer.log
 
