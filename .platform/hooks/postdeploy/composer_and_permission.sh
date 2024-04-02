@@ -42,3 +42,4 @@ yarn build >> /var/log/yarn.log 2>&1
 # Ajusta permissoes
 sudo chown -R webapp:webapp /var/www/html/ >> /var/log/chown.log 2>&1
 sudo touch DATIpassou.log
+echo "Concluiu deploy pelo pipeline sem env manual: $CURRENT_DATE" >> DATIpassou.log
