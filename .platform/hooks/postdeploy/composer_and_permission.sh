@@ -7,13 +7,6 @@ cd /var/www/html/
 # Define a data atual
 CURRENT_DATE=$(date +"%Y-%m-%d %T")
 
-# Exporta as variáveis de ambiente
-export $(sudo /opt/elasticbeanstalk/bin/get-config environment | jq -r 'to_entries|map("\(.key)=\(.value|tostring)")|.[]')
-
-# Saída para verificar as variáveis de ambiente exportadas
-echo "Variáveis de ambiente exportadas:"
-env
-
 # Instalação do Yarn
 curl -sL https://dl.yarnpkg.com/rpm/yarn.repo -o /etc/yum.repos.d/yarn.repo
 yum install -y yarn
